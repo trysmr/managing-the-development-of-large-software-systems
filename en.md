@@ -49,14 +49,14 @@ How is this procedure implemented? The following steps are required.
 
 Figure 5. Step 1: Insure that a preliminary program design is complete before analysis begins.
 
-### STEP2: DOCUMENT THE DESIGN
+### STEP 2: DOCUMENT THE DESIGN
 At this point it is appropriate to raise the issue of - "how much documentation?" My own view is "quite a lot;" certainly more than most programmers, analysts, or program designers are willing to do if left to their own devices. The first rule of managing software development is ruthless enforcement of documentation requirements.
 
 Occasionally I am called upon to review the progress of other software design efforts. My first step is to investigate the state of the documentation. If the documentation is in serious default my first recommendation is simple. Replace project management. Stop all activities not related to documentation. Bring the documentation up to acceptable standards. Management of software is simply impossible without a very high degree of documentation. As an example, let me offer the following estimates for comparison. In order to procure a 5 million dollar hardware device, I would expect that a 30 page specification would provide adequate detail to control the procurement. In order to procure 5 million dollars of software I would estimate a 1500 page specification is about right in order to achieve comparable control.
 
 Why so much documentation?
 
-1) Each designer must communicate with interfacing designers, with his management and possibly with the customer. A verbal record is too intangible to provide an adequate basis for an interface or management decision. An acceptable written description forces the designer from hiding behind the - "I am 90-percent finished" - syndrome month after month.
+1) Each designer must communicate with interfacing designers, with his management and possibly with the customer. A verbal record is too intangible to provide an adequate basis for an interface or management decision. An acceptable written description forces the designer to take an unequivocal position and provide tangible evidence of completion. It prevents the designer from hiding behind the - "I am 90-percent finished" - syndrome month after month.
 
 2) During the early phase of software development the documentation **<ins>is</ins>** the specification and <ins>is</ins> the design. Until coding begins these three nouns (documentation, specification, design) denote a single thing. If the documentation is bad the design is bad. If the documentation does not yet exist there is as yet no design, only people thinking and talking about the design which is of some value, but not much.
 
