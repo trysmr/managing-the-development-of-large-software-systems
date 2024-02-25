@@ -100,7 +100,7 @@ While this test procedure sounds simple, for a large, complex computer program i
 
 Figure 8. Step 4: Plan, control, and monitor computer program testing.
 
-### STEP5: INVOLVE THE CUSTOMER
+### STEP 5: INVOLVE THE CUSTOMER
 For some reason what a software design is going to do is subject to wide interpretation even after previous agreement. It is important to involve the customer in a formal way so that he has committed himself at earlier points before final delivery. To give the contractor free rein between requirement definition and operation is inviting trouble. Figure 9 indicates three points following requirements definition where the insight, judgment, and commitment of the customer can bolster the development effort.
 
 ![Figure 9. Step 5: Involve the customer - the involvement should be formal, in-depth, and continuing.](figures/09.png)
@@ -108,7 +108,7 @@ For some reason what a software design is going to do is subject to wide interpr
 Figure 9. Step 5: Involve the customer - the involvement should be formal, in-depth, and continuing.
 
 ## SUMMARY
-Figure 10 summarizes the five steps that I feel necessary to transform a risky development process into one that will provide the desired product. I would emphasize that each item costs come additional sum of money. If the relatively simpler process without the five complexities described here would work successfully, then of course the additional money is not well spent. In my experience, however, the simpler method has never worked on large software development efforts and the costs to recover far exceeded those required to finance the five-step process listed.
+Figure 10 summarizes the five steps that I feel necessary to transform a risky development process into one that will provide the desired product. I would emphasize that each item costs some additional sum of money. If the relatively simpler process without the five complexities described here would work successfully, then of course the additional money is not well spent. In my experience, however, the simpler method has never worked on large software development efforts and the costs to recover far exceeded those required to finance the five-step process listed.
 
 ![Figure 10. Summary](figures/10.png)
 
