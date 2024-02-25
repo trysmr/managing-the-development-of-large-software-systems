@@ -41,13 +41,13 @@ How is this procedure implemented? The following steps are required.
 
 1) **Begin the design process with program designers,** not analysts or programmers.
 
-2) **Design, define and allocate the data processing modes** even at the risk of being wrong. Allocate processing, functions, design the data base, define data base processing, allocate execution time, define interfaces and processing modes with the operation system, describe input and output processing, and define preliminary operating procedures.
+2) **Design, define and allocate the data processing modes** even at the risk of being wrong. Allocate processing, functions, design the data base, define data base processing, allocate execution time, define interfaces and processing modes with the operating system, describe input and output processing, and define preliminary operating procedures.
 
 3) **Write an overview document** that is understandable, informative and current. Each and every worker must have an elemental understanding of the system. At least one person must have a deep understanding of the system which comes partially from having had to write an overview document.
 
-![Figure 5. Step1: Insure that a preliminary program design is complete before analysis begins.](figures/05.png)
+![Figure 5. Step 1: Insure that a preliminary program design is complete before analysis begins.](figures/05.png)
 
-Figure 5. Step1: Insure that a preliminary program design is complete before analysis begins.
+Figure 5. Step 1: Insure that a preliminary program design is complete before analysis begins.
 
 ### STEP2: DOCUMENT THE DESIGN
 At this point it is appropriate to raise the issue of - "how much documentation?" My own view is "quite a lot;" certainly more than most programmers, analysts, or program designers are willing to do if left to their own devices. The first rule of managing software development is ruthless enforcement of documentation requirements.
